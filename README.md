@@ -32,5 +32,3 @@ Show the Users if you search and detail user with followers and following
 
 **RecyclerView**</br>
 `implementation 'androidx.recyclerview:recyclerview:1.1.0'`
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
