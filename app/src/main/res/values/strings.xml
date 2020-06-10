@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GithubUserSearch</string>
+    <string name="image_search">Press This For Start the Searching</string>
+    <string name="titleSearch">Github Search App</string>
+    <string name="not_found">User Not Found</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="titleDetail">Detail User</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="search_username">Searh Username</string>
+    <string name="gambar_pencarian">Image Search</string>
+    <string name="search_your_favorite_github_developer">Search Your Favorite Github Developer</string>
+    <string name="belum_ada_followers">Nothing Followers</string>
+    <string name="belum_ada_following">Nothing Following</string>
+    <string name="change_language">Change Language</string>
+    <string name="search_something">Search Something</string>
+</resources>

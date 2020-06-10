@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github Pencarian Aplikasi</string>
+    <string name="image_search">Tekan Ini Untuk Memulai Pencarian</string>
+    <string name="titleSearch">Github Pencarian Aplikasi</string>
+    <string name="not_found">User Tidak Ditemukan</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="titleDetail">Detail User</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="search_username">Cari Username</string>
+    <string name="gambar_pencarian">Gambar Pencarian</string>
+    <string name="search_your_favorite_github_developer">Cari User Github Developer Favoritmu</string>
+    <string name="belum_ada_followers">Belum Ada Followers</string>
+    <string name="belum_ada_following">Belum Ada Following</string>
+    <string name="change_language">Change Language</string>
+    <string name="search_something">Cari User</string>
+</resources>
