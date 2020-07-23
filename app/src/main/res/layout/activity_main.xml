@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/white_smoke"
+    android:background="@color/whiteSmoke"
     tools:context=".ui.MainActivity"
     tools:ignore="Overdraw">
 
@@ -31,8 +31,8 @@
             android:elevation="2dp"
             android:hint="@string/search_username"
             android:padding="10dp"
-            android:textColor="@color/whitePrimary"
-            android:textColorHint="@color/whitePrimary" />
+            android:textColor="@color/whiteSmoke"
+            android:textColorHint="@color/whiteSmoke" />
 
         <ImageButton
 
